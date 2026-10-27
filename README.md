@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ItzFizz Scroll Experience
 
 A responsive React landing page concept made for the ItzFizz scroll-driven hero assignment.
@@ -31,3 +32,6 @@ For the simplest GitHub Pages setup, use the GitHub Actions workflow for Vite pr
 - Replace the sample impact statistics with verified figures if the company provides real metrics.
 - Test the page at mobile and desktop sizes.
 - Make sure you can explain the React component, GSAP intro animation, and ScrollTrigger setup.
+=======
+# ItzFizz_Project
+>>>>>>> ec852f0efc5c37d24d524401f3bc3631ae663ed1
